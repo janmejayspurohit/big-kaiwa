@@ -1,5 +1,5 @@
 body {
-  background-color: #282c34;
+  background-color: #535E7A;
 }
 
 .App {
@@ -67,7 +67,7 @@ form {
 
 form button {
   width: 20%;
-  background-color: rgb(56, 56, 143);
+  background-color: #34D1BF;
 }
 
 
@@ -75,7 +75,7 @@ input {
   line-height: 1.5;
   width: 100%;
   font-size: 1.5rem;
-  background: rgb(58, 58, 58);
+  background: rgb(45, 45, 45);
   color: white;
   outline: none;
   border: none;
@@ -83,7 +83,7 @@ input {
 }
 
 button {
-  background-color: #282c34; /* Green */
+  background-color: #d1345b;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -110,7 +110,8 @@ button:disabled {
 
 
 
-ul, li {
+ul,
+li {
   text-align: left;
   list-style: none;
 }
@@ -141,6 +142,7 @@ p {
   background: #0b93f6;
   align-self: flex-end;
 }
+
 .received p {
   background: #e5e5ea;
   color: black;
