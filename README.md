@@ -3,6 +3,6 @@
 ## SSH Key Generation and Addition
 
 ```
-ssh-keygen *only first time*
+ssh-keygen
 cat ~/.ssh/id_rsa.pub
 ```
